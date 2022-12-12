@@ -7,3 +7,6 @@ y = 3 + 3
 x = 2 + 4
 z = x + y
 z
+print(25//6)
+total minutes = 42 + 41 + 37
+      total hours = total minutes / 60
